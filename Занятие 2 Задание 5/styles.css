@@ -1,0 +1,35 @@
+h1 {
+    background: red;
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+    text-shadow: 10px 2px green;
+}
+
+.paragraph-2 {
+    background: gray;
+    border-radius: 5px;
+    border-color: brown;
+    font-size: 24pt;
+    width: 50%;
+    text-shadow: 10px 2px green;
+}
+
+.div-1 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20pt;
+    margin-left: 60px;
+    text-shadow: 10px 2px green;
+}
+
+.img-1 {
+    border-radius: 16px;
+}
+
+.paragraph-3 {
+    text-align: center;
+    font-size: 24px;
+}
